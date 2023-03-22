@@ -21,5 +21,7 @@ public:
 	bool operator<=(const Time&) const;
 
 private:
-	int hour, minute, second;
+	int hour;
+	int minute;
+	int second;
 };

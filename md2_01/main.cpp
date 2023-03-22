@@ -3,7 +3,8 @@
 
 int main()
 {
-	Time a, b;
+	Time a;
+	Time b;
 	std::cout << "Time a: ";
 	std::cin >> a;
 
